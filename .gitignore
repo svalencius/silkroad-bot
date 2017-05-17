@@ -1,0 +1,8 @@
+node_modules
+gamedata/data
+!gamedata/data/chardataSample.txt
+!gamedata/data/itemdataSample.txt
+!gamedata/data/skilldataSample.txt
+!gamedata/data/teleportbuildingSample.txt
+log
+npm-debug.log

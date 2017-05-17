@@ -1,0 +1,16 @@
+{
+  "name": "silkroad-bot",
+  "version": "1.0.0",
+  "description": "Prototype of the client based bot of the game Silkroad Online. It works as a proxy server between game client and a game server.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simonas Valencius <simonas.va@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "hexdump-nodejs": "^0.1.0",
+    "hexy": "^0.2.9",
+    "long": "^3.2.0"
+  }
+}
